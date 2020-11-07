@@ -1,0 +1,16 @@
+.banner{
+    min-height: 57vh;
+    background-image: linear-gradient(#aaacdb, #aaacdb, pink);
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+    padding-top: 20vh;
+}
+
+.fa-laptop{
+    height: 120px;
+}

@@ -1,0 +1,35 @@
+.contact-section {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.contact-title, .contact-info{
+    text-align: center;
+}
+
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+}
+
+.form-button{
+    width: 5rem;
+    align-self: flex-end;
+    margin-top: 3%;
+}
+
+.form-message{
+    text-align: center;
+    width: 50%;
+    font-weight: bolder;
+}
+
+.success-message{
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
+    font-weight: bolder;
+    color: green;
+}

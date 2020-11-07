@@ -1,0 +1,31 @@
+.projects{
+    background-color: lightblue;
+}
+.projects-container{
+    display: flex;
+    flex-direction: column;
+
+}
+.projects1, .projects2{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5%;   
+}
+
+.details{
+    font-size: larger;
+    font-weight: bolder;
+    color: darkblue;
+}
+
+.details-text{
+    font-size: medium;
+    font-weight: 500;
+    
+}
+
+.project-image:hover{
+  
+        transform: scale(1.5); 
+      
+}

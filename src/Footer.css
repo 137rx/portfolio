@@ -1,0 +1,17 @@
+.footer-section{
+background-color: black;
+color: white;
+min-height: 5vh;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+
+}
+
+.icons a{
+    color: white;
+    padding-left: 5%;
+}
