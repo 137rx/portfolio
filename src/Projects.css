@@ -9,7 +9,7 @@
 .projects1, .projects2{
     display: flex;
     justify-content: space-evenly;
-    margin: 5%;   
+    margin: 5%;
 }
 
 .details{
@@ -25,7 +25,8 @@
 }
 
 .project-image:hover{
-  
-        transform: scale(1.5); 
-      
+    transform: scale(1.5); 
+    margin-bottom: 6%;
+    border-radius: 2%;
 }
+
