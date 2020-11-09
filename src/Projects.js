@@ -31,8 +31,8 @@ const Projects = () => {
                         <Card.Body>
                             <Card.Title>TV DOM project</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Individual project</Card.Subtitle>
-                            <Card.Link target="_blank" href="https://github.com/279Roxana/tv-show-dom-project">Address</Card.Link>
-                            <Card.Link target="_blank" href="https://cyf-279roxana-tv.netlify.app">Github Link</Card.Link>
+                            <Card.Link target="_blank" href="https://cyf-279roxana-tv.netlify.app">Address</Card.Link>
+                            <Card.Link target="_blank" href="https://github.com/279Roxana/tv-show-dom-project">Github Link</Card.Link>
 
                             <Card.Text>
                                 <span className="details">Description:</span> <p className="details-text">TV shows display</p>
