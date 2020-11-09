@@ -10,7 +10,7 @@ const Banner = () => {
             <Container className="intro">
                 <Col>
                 <h1>Hello, I'm Roxana </h1>
-                <h2>Sofware Developer</h2>
+                <h2>Software Developer</h2>
                 <FontAwesomeIcon icon={faLaptop} style={{ width: '8%' }} />
                 </Col>
             </Container>
