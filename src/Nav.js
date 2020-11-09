@@ -14,7 +14,7 @@ const Navigation = () => {
                         <Col />
                        
                         <Col>
-                        <Navbar.Toggle aria-controls="basic-navbar-nav" className="ml-6" />
+                        <Navbar.Toggle aria-controls="basic-navbar-nav" className="ml-5" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav>
 

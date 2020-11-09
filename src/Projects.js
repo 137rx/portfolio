@@ -53,7 +53,7 @@ const Projects = () => {
                             <Card.Link target="_blank" href="https://github.com/CodeYourFuture/well-minded">Github Link</Card.Link>
 
                             <Card.Text>
-                                <span className="details">Description:</span> <p className="details-text">Web app meant to connect people with mental health issues with organisations offering free support.
+                                <span className="details">Description:</span> <p className="details-text">Web app connecting people who experience mental health issues, with organisations offering free support.
                             Contributed to tasks in both front-end and back-end. </p>
 
                                 <span className="details">Technology used:</span> <p className="details-text">React Bootstrap, React Router, CSS, Node js, Express, Mongoose, Mongodb, Figma, Trello </p>
