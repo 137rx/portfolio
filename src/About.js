@@ -27,7 +27,7 @@ const About = () => {
                     <Card.Title>About me</Card.Title>
                     <Card.Text className="mt-3">
                         Tech enthusiast, graduated from CodeYourFuture Full-Stack Web Development course in October 2020.
-                        I am eager to consoldate my knowledge through continuous learning and problem solving skills.
+                        I am eager to consolidate my knowledge through continuous learning and problem solving skills.
           </Card.Text>
                     <Card.Text className="mt-3">Proficient in:
         
