@@ -16,7 +16,7 @@ const Projects = () => {
                         <Card.Body>
                             <Card.Title>React chatbox</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Individual project</Card.Subtitle>
-                            <Card.Link target="_blank" href="https://roxana279-chat-frontend.netlify.app">Address</Card.Link>
+                            <Card.Link target="_blank" href="https://roxana279-chat-frontend.netlify.app">Link</Card.Link>
                             <Card.Link target="_blank" href="https://github.com/279Roxana/node-challenge-chat-server">Github Link</Card.Link>
 
                             <Card.Text>
@@ -31,7 +31,7 @@ const Projects = () => {
                         <Card.Body>
                             <Card.Title>TV DOM project</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Individual project</Card.Subtitle>
-                            <Card.Link target="_blank" href="https://cyf-279roxana-tv.netlify.app">Address</Card.Link>
+                            <Card.Link target="_blank" href="https://cyf-279roxana-tv.netlify.app">Link</Card.Link>
                             <Card.Link target="_blank" href="https://github.com/279Roxana/tv-show-dom-project">Github Link</Card.Link>
 
                             <Card.Text>
@@ -49,7 +49,7 @@ const Projects = () => {
                         <Card.Body>
                             <Card.Title>Well-minded </Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Group project</Card.Subtitle>
-                            <Card.Link target="_blank" href="https://staging-well-minded.herokuapp.com">Address</Card.Link>
+                            <Card.Link target="_blank" href="https://staging-well-minded.herokuapp.com">Link</Card.Link>
                             <Card.Link target="_blank" href="https://github.com/CodeYourFuture/well-minded">Github Link</Card.Link>
 
                             <Card.Text>
@@ -65,7 +65,6 @@ const Projects = () => {
                         <Card.Body>
                             <Card.Title>See the Future</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Group project</Card.Subtitle>
-                            <Card.Link target="_blank" href="https://seethefuture-hackaton20.netlify.app/">Address</Card.Link>
                             <Card.Link target="_blank" href="https://github.com/279Roxana/Hackaton-sf-ldn-2020">Github Link</Card.Link>
 
                             <Card.Text>

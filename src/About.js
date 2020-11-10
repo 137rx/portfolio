@@ -16,7 +16,7 @@ const About = () => {
                     <Card.Img variant="top" src={self} />
                     <Card.Title>Roxana Cocias</Card.Title>
                     <Card.Subtitle className="mb-2 text-muted">Full-Stack Developer</Card.Subtitle>
-                    <Card.Link target="_blank" href="https://docs.google.com/document/d/1QjjvMrdTg-x0ztX0tDcOwrKxcvxMGQyaKBNKiHpfkSU/edit?usp=sharing">Curriculum Vitae</Card.Link>
+                    <Card.Link target="_blank" href="https://www.linkedin.com/in/roxana-cocias-9837a5188/">linkedin</Card.Link>
                     <Card.Link target="_blank" href="https://github.com/279roxana">Github Link</Card.Link>
 
 
