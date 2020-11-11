@@ -17,7 +17,7 @@ const Projects = () => {
                             <Card.Title>React chatbox</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Individual project</Card.Subtitle>
                             <Card.Link target="_blank" href="https://roxana279-chat-frontend.netlify.app">Link</Card.Link>
-                            <Card.Link target="_blank" href="https://github.com/279Roxana/node-challenge-chat-server">Github Link</Card.Link>
+                            <Card.Link target="_blank" href="https://github.com/279Roxana/node-challenge-chat-server">Github repo</Card.Link>
 
                             <Card.Text>
                                 <span className="details">Description:</span> <p className="details-text">Full-Stack chatbox application</p>
@@ -32,7 +32,7 @@ const Projects = () => {
                             <Card.Title>TV DOM project</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Individual project</Card.Subtitle>
                             <Card.Link target="_blank" href="https://cyf-279roxana-tv.netlify.app">Link</Card.Link>
-                            <Card.Link target="_blank" href="https://github.com/279Roxana/tv-show-dom-project">Github Link</Card.Link>
+                            <Card.Link target="_blank" href="https://github.com/279Roxana/tv-show-dom-project">Github repo</Card.Link>
 
                             <Card.Text>
                                 <span className="details">Description:</span> <p className="details-text">TV shows display</p>
@@ -50,7 +50,7 @@ const Projects = () => {
                             <Card.Title>Well-minded </Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Group project</Card.Subtitle>
                             <Card.Link target="_blank" href="https://staging-well-minded.herokuapp.com">Link</Card.Link>
-                            <Card.Link target="_blank" href="https://github.com/CodeYourFuture/well-minded">Github Link</Card.Link>
+                            <Card.Link target="_blank" href="https://github.com/CodeYourFuture/well-minded">Github repo</Card.Link>
 
                             <Card.Text>
                                 <span className="details">Description:</span> <p className="details-text">Web app connecting people who experience mental health issues, with organisations offering free support.
@@ -65,7 +65,7 @@ const Projects = () => {
                         <Card.Body>
                             <Card.Title>See the Future</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Group project</Card.Subtitle>
-                            <Card.Link target="_blank" href="https://github.com/279Roxana/Hackaton-sf-ldn-2020">Github Link</Card.Link>
+                            <Card.Link target="_blank" href="https://github.com/279Roxana/Hackaton-sf-ldn-2020">Github repo</Card.Link>
 
                             <Card.Text>
                                 <span className="details">Description:</span> <p className="details-text">Web app built during the Code for Good 2020 Hackathon, sponsored by Capgemini in collaboration with Code Your Future.
